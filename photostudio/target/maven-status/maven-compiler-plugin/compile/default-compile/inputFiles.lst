@@ -1,0 +1,11 @@
+C:\Users\jabes\OneDrive\Escritorio\photostudio\src\main\java\com\api\photostudio\controller\ClienteController.java
+C:\Users\jabes\OneDrive\Escritorio\photostudio\src\main\java\com\api\photostudio\controller\ResumenController.java
+C:\Users\jabes\OneDrive\Escritorio\photostudio\src\main\java\com\api\photostudio\domain\cliente\Cliente.java
+C:\Users\jabes\OneDrive\Escritorio\photostudio\src\main\java\com\api\photostudio\domain\cliente\ClienteRepository.java
+C:\Users\jabes\OneDrive\Escritorio\photostudio\src\main\java\com\api\photostudio\domain\cliente\ClienteService.java
+C:\Users\jabes\OneDrive\Escritorio\photostudio\src\main\java\com\api\photostudio\domain\resumen\Resumen.java
+C:\Users\jabes\OneDrive\Escritorio\photostudio\src\main\java\com\api\photostudio\domain\resumen\ResumenRepository.java
+C:\Users\jabes\OneDrive\Escritorio\photostudio\src\main\java\com\api\photostudio\domain\resumen\ResumenService.java
+C:\Users\jabes\OneDrive\Escritorio\photostudio\src\main\java\com\api\photostudio\infra\errores\TratadorDeErrores.java
+C:\Users\jabes\OneDrive\Escritorio\photostudio\src\main\java\com\api\photostudio\infra\springdoc\SpringDocConfigurations.java
+C:\Users\jabes\OneDrive\Escritorio\photostudio\src\main\java\com\api\photostudio\PhotostudioApplication.java

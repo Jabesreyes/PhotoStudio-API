@@ -1,0 +1,12 @@
+com\api\photostudio\domain\cliente\Cliente.class
+com\api\photostudio\controller\ResumenController.class
+com\api\photostudio\PhotostudioApplication.class
+com\api\photostudio\domain\cliente\ClienteRepository.class
+com\api\photostudio\infra\errores\TratadorDeErrores$DatosErrorValidacion.class
+com\api\photostudio\domain\resumen\ResumenRepository.class
+com\api\photostudio\domain\resumen\Resumen.class
+com\api\photostudio\infra\springdoc\SpringDocConfigurations.class
+com\api\photostudio\domain\cliente\ClienteService.class
+com\api\photostudio\controller\ClienteController.class
+com\api\photostudio\infra\errores\TratadorDeErrores.class
+com\api\photostudio\domain\resumen\ResumenService.class
